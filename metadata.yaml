@@ -1,9 +1,13 @@
 _repo: Annan-nuoruusvuodet_49717
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Vesala, Hilja
     gutenberg_agent_id: '45507'
     url: http://www.gutenberg.org/2009/agents/45507
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Montgomery, L. M. (Lucy Maud)
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49717#Annan-nuoruusvuodet
 gutenberg_issued: '2015-08-16'
 gutenberg_type: Text
 identifiers:
